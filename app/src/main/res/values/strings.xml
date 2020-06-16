@@ -1,4 +1,5 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <string name="app_name" translatable="false">My LIVE TV</string>
     <string name="browse_title">Videos by Your Company</string>
     <string name="related_movies">Related Videos</string>
@@ -17,8 +18,6 @@
     <string name="error_fragment_message">An error occurred</string>
     <string name="dismiss_error">Dismiss</string>
 
-
-    <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
         <string name="font" translatable="false">sans-serif</string>
         <string name="light_font" translatable="false">sans-serif-light</string>
         <string name="thin_font" translatable="false">sans-serif-thin</string>
@@ -517,7 +516,6 @@
         <string name="recording_start_dialog_1_hour_duration">1 hour</string>
         <!-- The action to record the current channel for 3 hours. [CHAR LIMIT=30] -->
         <string name="recording_start_dialog_3_hours_duration">3 hours</string>
-        <!--TODO(DVR): decide if translation needed Name of DVR service [CHAR LIMIT=NONE]  -->
         <string name="dvr_service_name" translatable="false">DVR Service</string>
         <!-- DVR Menu strings. -->
         <eat-comment />
@@ -939,4 +937,3 @@
         <!-- Name for recorded programs preview channel -->
         <string name="recorded_programs_preview_channel">Recorded Programs</string>
     </resources>
-</resources>
